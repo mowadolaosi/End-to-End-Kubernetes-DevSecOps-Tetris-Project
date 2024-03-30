@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: mowadola/tetris:9
+        image: mowadola/tetris2:9
         ports:
         - containerPort: 3000
 ---
